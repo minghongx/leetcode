@@ -1,0 +1,2 @@
+- [ ] Reproducible rust dev env with Nix flake
+- [ ] Imitate https://github.com/Aloxaf/LeetCode-Rust
